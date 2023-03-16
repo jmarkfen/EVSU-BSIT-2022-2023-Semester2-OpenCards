@@ -2,13 +2,21 @@
   <unserializable-parents/>
   <list>
     <default>
-      <size>1</size>
+      <size>2</size>
     </default>
-    <int>1</int>
+    <int>2</int>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;0..38&quot;&gt;List down move and selection tools&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1594802620</cardID>
+      <cardTitle>&lt;!--&#xd;
+hello&#xd;
+--&gt;</cardTitle>
+      <cardID>-393367567</cardID>
       <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;20..58&quot;&gt;Enumerate move and selection tools&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>313154450</cardID>
+      <cardIndex>2</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
   </list>
@@ -16,18 +24,54 @@
     <default>
       <itColls>
         <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <info.opencards.learnstrats.ltm.LTMCollection serialization="custom">
+            <unserializable-parents/>
+            <list>
+              <default>
+                <size>2</size>
+              </default>
+              <int>2</int>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-16 05:22:35.744 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-16 05:22:35.744 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+            </list>
+            <info.opencards.core.ItemCollection>
+              <default>
+                <props/>
+              </default>
+            </info.opencards.core.ItemCollection>
+          </info.opencards.learnstrats.ltm.LTMCollection>
+        </entry>
+        <entry>
           <java-class>info.opencards.learnstrats.leitner.LeitnerItem</java-class>
           <info.opencards.learnstrats.leitner.LeitnerSystem serialization="custom">
             <unserializable-parents/>
             <list>
               <default>
-                <size>1</size>
+                <size>2</size>
               </default>
-              <int>1</int>
+              <int>2</int>
               <info.opencards.learnstrats.leitner.LeitnerItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
                 <itemProps/>
                 <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
+                <itemProps/>
+                <itemState>5</itemState>
               </info.opencards.learnstrats.leitner.LeitnerItem>
             </list>
             <info.opencards.core.ItemCollection>
@@ -45,45 +89,23 @@
                   <list/>
                   <list/>
                   <list/>
-                  <list/>
+                  <list>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[2]"/>
+                  </list>
                 </boxes>
               </default>
             </info.opencards.learnstrats.leitner.LeitnerSystem>
           </info.opencards.learnstrats.leitner.LeitnerSystem>
         </entry>
-        <entry>
-          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
-          <info.opencards.learnstrats.ltm.LTMCollection serialization="custom">
-            <unserializable-parents/>
-            <list>
-              <default>
-                <size>1</size>
-              </default>
-              <int>1</int>
-              <info.opencards.learnstrats.ltm.LTMItem>
-                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
-                <itemProps/>
-                <easiness>2.5</easiness>
-                <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-16 03:57:51.386 UTC</lastQuery>
-              </info.opencards.learnstrats.ltm.LTMItem>
-            </list>
-            <info.opencards.core.ItemCollection>
-              <default>
-                <props/>
-              </default>
-            </info.opencards.core.ItemCollection>
-          </info.opencards.learnstrats.ltm.LTMCollection>
-        </entry>
       </itColls>
       <properties/>
       <syncStates>
         <entry>
-          <java-class>info.opencards.learnstrats.leitner.LeitnerItem</java-class>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <java-class>info.opencards.learnstrats.leitner.LeitnerItem</java-class>
           <boolean>true</boolean>
         </entry>
       </syncStates>
