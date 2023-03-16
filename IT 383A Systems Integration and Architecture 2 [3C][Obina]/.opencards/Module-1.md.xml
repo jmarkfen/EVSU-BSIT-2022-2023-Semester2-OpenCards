@@ -1,0 +1,22 @@
+<info.opencards.core.FlashCardCollection serialization="custom">
+  <unserializable-parents/>
+  <list>
+    <default>
+      <size>1</size>
+    </default>
+    <int>1</int>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;0..36&quot;&gt;Scope of enterprise architecture&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>919514116</cardID>
+      <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+  </list>
+  <info.opencards.core.FlashCardCollection>
+    <default>
+      <itColls/>
+      <properties/>
+      <syncStates/>
+    </default>
+  </info.opencards.core.FlashCardCollection>
+</info.opencards.core.FlashCardCollection>

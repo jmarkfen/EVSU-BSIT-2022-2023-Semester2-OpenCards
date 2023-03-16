@@ -1,0 +1,112 @@
+<info.opencards.core.FlashCardCollection serialization="custom">
+  <unserializable-parents/>
+  <list>
+    <default>
+      <size>16</size>
+    </default>
+    <int>16</int>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;0..109&quot;&gt;A software design pattern which separates concerns of an application into the model, view, and controller&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1019405058</cardID>
+      <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;151..187&quot;&gt;Benefits of using MVC frameworks&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-844650363</cardID>
+      <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;300..323&quot;&gt;Alternatives to MVC&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1463135406</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;498..595&quot;&gt;In the MVC pattern, it is responsible for managing the application&apos;s data and business logic.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1350723150</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;607..712&quot;&gt;In the MVC pattern, it interacts with the database and other data sources to retrieve and store data.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-957015359</cardID>
+      <cardIndex>5</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;724..814&quot;&gt;In the MVC pattern, it contains validation and processing logic for manipulating data.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-730564551</cardID>
+      <cardIndex>6</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;826..913&quot;&gt;In the MVC pattern, it acts as the backend and handles all data-related operations.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1979236695</cardID>
+      <cardIndex>7</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;925..1013&quot;&gt;In the MVC pattern, it is responsible for presenting the user interface to the user.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>406499698</cardID>
+      <cardIndex>8</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1024..1126&quot;&gt;In the MVC pattern, it serves as the frontend and handles all user interface-relation operations. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>404073069</cardID>
+      <cardIndex>9</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1137..1210&quot;&gt;In the MVC pattern, it sends input to the controller for processing. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1458816968</cardID>
+      <cardIndex>10</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1221..1326&quot;&gt;In the MVC pattern, it is responsible for managing user requests and coordinating the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-634623899</cardID>
+      <cardIndex>11</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1343..1439&quot;&gt;In the MVC pattern, it receives input from the View and processes it according to the Model.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-60150275</cardID>
+      <cardIndex>12</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1456..1533&quot;&gt;In the MVC pattern, it serves as the mediator between the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-902049549</cardID>
+      <cardIndex>13</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1550..1650&quot;&gt;In the MVC pattern, it is responsible for updating the View with the latest data from the Model.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1309949137</cardID>
+      <cardIndex>14</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1667..1698&quot;&gt;Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-795395608</cardID>
+      <cardIndex>15</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2072..2109&quot;&gt;tldr; Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-962989466</cardID>
+      <cardIndex>16</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+  </list>
+  <info.opencards.core.FlashCardCollection>
+    <default>
+      <itColls/>
+      <properties/>
+      <syncStates/>
+    </default>
+  </info.opencards.core.FlashCardCollection>
+</info.opencards.core.FlashCardCollection>

@@ -1,0 +1,124 @@
+<info.opencards.core.FlashCardCollection serialization="custom">
+  <unserializable-parents/>
+  <list>
+    <default>
+      <size>18</size>
+    </default>
+    <int>18</int>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;0..39&quot;&gt;What is a balanced scorecard (BSC)?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1861119083</cardID>
+      <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;191..233&quot;&gt;What is a balanced scorecard (BSC) #2?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-447778783</cardID>
+      <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;361..402&quot;&gt;Who published the balanced scorecard?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1590698642</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;426..472&quot;&gt;When was the balanced scorecard published?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1634163384</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;483..558&quot;&gt;When was the book by Kaplan and Noron on balanced scorecards published?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1176213384</cardID>
+      <cardIndex>5</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;569..628&quot;&gt;Principles of successful strategy-focused organizations&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1595689117</cardID>
+      <cardIndex>6</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;850..896&quot;&gt;Why was the balanced scorecard introduced?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2024534518</cardID>
+      <cardIndex>7</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;972..1017&quot;&gt;Four perspectives of a balanced scorecard&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1841511352</cardID>
+      <cardIndex>8</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1101..1182&quot;&gt;What does &apos;Learning and Growth&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>144591326</cardID>
+      <cardIndex>9</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1207..1296&quot;&gt;What does &apos;Internal Business Processes&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>253684069</cardID>
+      <cardIndex>10</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1327..1397&quot;&gt;What does &apos;Customer&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1078601250</cardID>
+      <cardIndex>11</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1428..1517&quot;&gt;What does &apos;Internal Business Processes&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>965874488</cardID>
+      <cardIndex>12</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1557..1642&quot;&gt;Identify the perspective: &apos;What must we do to create sustainable economic value?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1924654767</cardID>
+      <cardIndex>13</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1658..1784&quot;&gt;Identify the perspective: &apos;To satisfy our stakeholders, what must be our levels of productivity, efficiency, and quality?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-997571316</cardID>
+      <cardIndex>14</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1818..1961&quot;&gt;Identify the perspective: &apos;How does our employee performance management system, including feedback to employees, support high performance?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2030105775</cardID>
+      <cardIndex>15</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1987..2110&quot;&gt;Identify the perspective: &apos;What do our customers require from us and how are we doing according to those requirements?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-756781310</cardID>
+      <cardIndex>16</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2125..2185&quot;&gt;As a model of performance, BSC clears the links between:&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1674069817</cardID>
+      <cardIndex>17</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2341..2375&quot;&gt;Other characteristics of a BSC&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>130546085</cardID>
+      <cardIndex>18</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+  </list>
+  <info.opencards.core.FlashCardCollection>
+    <default>
+      <itColls/>
+      <properties/>
+      <syncStates/>
+    </default>
+  </info.opencards.core.FlashCardCollection>
+</info.opencards.core.FlashCardCollection>

@@ -1,0 +1,166 @@
+<info.opencards.core.FlashCardCollection serialization="custom">
+  <unserializable-parents/>
+  <list>
+    <default>
+      <size>25</size>
+    </default>
+    <int>25</int>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;0..102&quot;&gt;a multi-disciplinary field that uses scientific methods to extact knowledge and insights from data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1958353917</cardID>
+      <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;121..198&quot;&gt;representation of facts, concepts, or instructions in a formalized manner&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1021203762</cardID>
+      <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;209..275&quot;&gt;is the processed data on which decisions and actions are based&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-801556984</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;293..359&quot;&gt;is interpreted data, created from data in a particular context&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>75666831</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;377..469&quot;&gt;the restructuring or re-ordering of data to increase usefulness for a particular purpose&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>199178563</cardID>
+      <cardIndex>5</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;491..519&quot;&gt;steps in data processing&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1079200030</cardID>
+      <cardIndex>6</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;557..578&quot;&gt;common data types&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-443617859</cardID>
+      <cardIndex>7</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;671..719&quot;&gt;data that adheres to a predefined data model&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-413443807</cardID>
+      <cardIndex>8</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;741..770&quot;&gt;examples of structed data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1624615372</cardID>
+      <cardIndex>9</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;810..979&quot;&gt;form of data that does not conform with a formal structure but contains tags and markers to separate semantic elements and enforce hierarchies of records and fields.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2113874968</cardID>
+      <cardIndex>10</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1006..1042&quot;&gt;examples of semi-structured data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-933863820</cardID>
+      <cardIndex>11</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1062..1158&quot;&gt;information that does not have a predefined data model nor organized in a predefined manner.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1698655864</cardID>
+      <cardIndex>12</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1182..1215&quot;&gt;examples of unstructured data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-567668493</cardID>
+      <cardIndex>13</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1257..1292&quot;&gt;provides information about data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1009197114</cardID>
+      <cardIndex>14</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1307..1380&quot;&gt;introduced to describe the flow of informatio within big data systems&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-758092361</cardID>
+      <cardIndex>15</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1403..1432&quot;&gt;steps in data value chain&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-709640902</cardID>
+      <cardIndex>16</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1521..1537&quot;&gt;what is ACID&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>355674728</cardID>
+      <cardIndex>17</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1589..1724&quot;&gt;is a blanket term for non-traditional strategies and technologies to gather, organize, process and get insights from large datasets&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-917161241</cardID>
+      <cardIndex>18</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1739..1864&quot;&gt;a collection of data sets so large and complex that it becomes diffult to process using on-hand database management tools&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-48552164</cardID>
+      <cardIndex>19</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1879..1910&quot;&gt;characteristics of big data&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>296783519</cardID>
+      <cardIndex>20</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1960..2038&quot;&gt;an open-source framework intended to make interaction with big data easier&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2099633727</cardID>
+      <cardIndex>21</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2051..2059&quot;&gt;HDFS&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1905067989</cardID>
+      <cardIndex>22</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2096..2104&quot;&gt;YARN&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-882394040</cardID>
+      <cardIndex>23</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2142..2188&quot;&gt;Programming-based Data Processing software&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>227834529</cardID>
+      <cardIndex>24</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2204..2236&quot;&gt;Applications of data science&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-155105913</cardID>
+      <cardIndex>25</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+  </list>
+  <info.opencards.core.FlashCardCollection>
+    <default>
+      <itColls/>
+      <properties/>
+      <syncStates/>
+    </default>
+  </info.opencards.core.FlashCardCollection>
+</info.opencards.core.FlashCardCollection>
