@@ -5,3 +5,15 @@ SY 2022-2023
 Second Semester  
 
 Used with https://github.com/holgerbrandl/opencards
+
+## Assessment Observations
+
+IT 343 Multimedia Systems [3C][Balijon]
+
+- quizzes are multiple choices.
+
+
+IT 383 Integrative Programming and Technologies 2 [3C][Ogrimen]
+
+- quizzes are multiple choices.
+- if the answer could be all of the above, it probably is.
