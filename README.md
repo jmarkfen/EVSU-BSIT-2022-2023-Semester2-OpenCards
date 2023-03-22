@@ -6,7 +6,7 @@ Second Semester
 
 Used with https://github.com/holgerbrandl/opencards
 
-## Assessment Observations
+## Observations during assessments
 
 IT 343 Multimedia Systems [3C][Balijon]
 
