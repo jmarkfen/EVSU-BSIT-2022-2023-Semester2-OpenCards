@@ -1,3 +1,5 @@
+<!-- Lesson 2: Data Science -->
+
 ## a multi-disciplinary field that uses scientific methods to extact knowledge and insights from data
 
 data science

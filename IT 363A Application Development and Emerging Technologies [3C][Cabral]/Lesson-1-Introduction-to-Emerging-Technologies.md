@@ -1,3 +1,5 @@
+<!-- Lesson 1: Introduction to Emerging Technologies -->
+
 ## define emerging technology
 
 technologies currently being developed expected to be available within the next five to ten years

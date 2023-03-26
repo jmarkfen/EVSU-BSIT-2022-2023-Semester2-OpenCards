@@ -1,3 +1,5 @@
+<!-- Lesson 3: Artificial Intelligence -->
+
 ## ability to acquire and apply knowledge
 
 intelligence
