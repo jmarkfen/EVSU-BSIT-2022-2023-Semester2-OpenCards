@@ -2,123 +2,311 @@
   <unserializable-parents/>
   <list>
     <default>
-      <size>18</size>
+      <size>21</size>
     </default>
-    <int>18</int>
+    <int>21</int>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;0..39&quot;&gt;What is a balanced scorecard (BSC)?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1861119083</cardID>
+      <cardTitle>&lt;!-- Module 2: Balanced Scorecard and Strategy Maps --&gt;</cardTitle>
+      <cardID>-876552958</cardID>
       <cardIndex>1</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;191..233&quot;&gt;What is a balanced scorecard (BSC) #2?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-447778783</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;117..274&quot;&gt;It is a strategy performance management tool and semi-structured report used by managers to track the actions of the staff and monitor their consequences&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1750071642</cardID>
       <cardIndex>2</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;361..402&quot;&gt;Who published the balanced scorecard?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1590698642</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;305..438&quot;&gt;It is a strategic planning and management system used to align business activities to the vision and strategy of the organization&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1436494338</cardID>
       <cardIndex>3</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;426..472&quot;&gt;When was the balanced scorecard published?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1634163384</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;469..510&quot;&gt;Who published the balanced scorecard?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2028394023</cardID>
       <cardIndex>4</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;483..558&quot;&gt;When was the book by Kaplan and Noron on balanced scorecards published?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1176213384</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;534..580&quot;&gt;When was the balanced scorecard published?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1165550968</cardID>
       <cardIndex>5</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;569..628&quot;&gt;Principles of successful strategy-focused organizations&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1595689117</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;591..666&quot;&gt;When was the book by Kaplan and Noron on balanced scorecards published?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-575732536</cardID>
       <cardIndex>6</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;850..896&quot;&gt;Why was the balanced scorecard introduced?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-2024534518</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;677..736&quot;&gt;Principles of successful strategy-focused organizations&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1787190109</cardID>
       <cardIndex>7</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;972..1017&quot;&gt;Four perspectives of a balanced scorecard&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1841511352</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;958..1026&quot;&gt;is a strategy performance management tool - a structured report.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-970128085</cardID>
       <cardIndex>8</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1101..1182&quot;&gt;What does &apos;Learning and Growth&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>144591326</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1057..1103&quot;&gt;Why was the balanced scorecard introduced?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1041037260</cardID>
       <cardIndex>9</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1207..1296&quot;&gt;What does &apos;Internal Business Processes&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>253684069</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1179..1224&quot;&gt;Four perspectives of a balanced scorecard&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1374565538</cardID>
       <cardIndex>10</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1327..1397&quot;&gt;What does &apos;Customer&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1078601250</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1308..1528&quot;&gt;If you train your employees (&lt;strong md-src-pos=&quot;1340..1405&quot;&gt;&lt;strong md-src-pos=&quot;1342..1403&quot;&gt;&lt;strong md-src-pos=&quot;1344..1401&quot;&gt;&lt;strong md-src-pos=&quot;1346..1399&quot;&gt;) they’ll make your company run more smoothly (&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;). A better running business takes better care of its customers (&lt;strong md-src-pos=&quot;1470..1525&quot;&gt;&lt;strong md-src-pos=&quot;1472..1523&quot;&gt;&lt;strong md-src-pos=&quot;1474..1521&quot;&gt;&lt;strong md-src-pos=&quot;1476..1519&quot;&gt;), and happy customers buy more stuff (&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;).&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>107372244</cardID>
       <cardIndex>11</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1428..1517&quot;&gt;What does &apos;Internal Business Processes&apos; perspective in a balanced scorecard refer to?&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>965874488</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1604..1689&quot;&gt;Identify the perspective: &apos;What must we do to create sustainable economic value?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1688087211</cardID>
       <cardIndex>12</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1557..1642&quot;&gt;Identify the perspective: &apos;What must we do to create sustainable economic value?&apos;&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1924654767</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1705..1831&quot;&gt;Identify the perspective: &apos;To satisfy our stakeholders, what must be our levels of productivity, efficiency, and quality?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1473239954</cardID>
       <cardIndex>13</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1658..1784&quot;&gt;Identify the perspective: &apos;To satisfy our stakeholders, what must be our levels of productivity, efficiency, and quality?&apos;&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-997571316</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1865..2008&quot;&gt;Identify the perspective: &apos;How does our employee performance management system, including feedback to employees, support high performance?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-595707146</cardID>
       <cardIndex>14</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1818..1961&quot;&gt;Identify the perspective: &apos;How does our employee performance management system, including feedback to employees, support high performance?&apos;&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-2030105775</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2034..2157&quot;&gt;Identify the perspective: &apos;What do our customers require from us and how are we doing according to those requirements?&apos;&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1174033625</cardID>
       <cardIndex>15</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1987..2110&quot;&gt;Identify the perspective: &apos;What do our customers require from us and how are we doing according to those requirements?&apos;&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-756781310</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2172..2234&quot;&gt;________ show the dependent components of a strategic plan&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2101490363</cardID>
       <cardIndex>16</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;2125..2185&quot;&gt;As a model of performance, BSC clears the links between:&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1674069817</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2254..2314&quot;&gt;As a model of performance, BSC clears the links between:&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1358913598</cardID>
       <cardIndex>17</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;2341..2375&quot;&gt;Other characteristics of a BSC&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>130546085</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2470..2504&quot;&gt;Other characteristics of a BSC&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-42610966</cardID>
       <cardIndex>18</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2787..2865&quot;&gt;How many steps are there to develop balanced scorecards and strategy maps?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1371232736</cardID>
+      <cardIndex>19</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2873..2933&quot;&gt;Steps to developed balanced scorecards and stragegy maps&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1533450294</cardID>
+      <cardIndex>20</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3562..3637&quot;&gt;is a framework to link intangible assets to shareholder value creation.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-990063593</cardID>
+      <cardIndex>21</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
   </list>
   <info.opencards.core.FlashCardCollection>
     <default>
-      <itColls/>
+      <itColls>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <info.opencards.learnstrats.ltm.LTMCollection serialization="custom">
+            <unserializable-parents/>
+            <list>
+              <default>
+                <size>21</size>
+              </default>
+              <int>21</int>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[3]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[5]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[6]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[7]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[8]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[9]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[10]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[11]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[12]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[13]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[14]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[15]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[16]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[17]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[18]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[19]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[20]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[21]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:03.546 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+            </list>
+            <info.opencards.core.ItemCollection>
+              <default>
+                <props/>
+              </default>
+            </info.opencards.core.ItemCollection>
+          </info.opencards.learnstrats.ltm.LTMCollection>
+        </entry>
+      </itColls>
       <properties/>
-      <syncStates/>
+      <syncStates>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <boolean>true</boolean>
+        </entry>
+      </syncStates>
     </default>
   </info.opencards.core.FlashCardCollection>
 </info.opencards.core.FlashCardCollection>

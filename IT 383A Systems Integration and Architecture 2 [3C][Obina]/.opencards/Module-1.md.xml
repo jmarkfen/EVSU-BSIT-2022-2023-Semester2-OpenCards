@@ -2,21 +2,662 @@
   <unserializable-parents/>
   <list>
     <default>
-      <size>1</size>
+      <size>48</size>
     </default>
-    <int>1</int>
+    <int>48</int>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;0..36&quot;&gt;Scope of enterprise architecture&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>919514116</cardID>
+      <cardTitle>&lt;!-- Module 1: Introduction to System Integration and Architecture --&gt;</cardTitle>
+      <cardID>634003130</cardID>
       <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;136..202&quot;&gt;Is a guide map that can reduce risks of project implementation&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1912650082</cardID>
+      <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;232..388&quot;&gt;A method for managing your business or enterprise. It is a decision-making, change management tool and the knowledgebase of your business or enterprise.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1225053642</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;418..454&quot;&gt;Scope of enterprise architecture&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1140429677</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;569..638&quot;&gt;what are the three schools of thought in enterprise architecture?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1208516045</cardID>
+      <cardIndex>5</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;729..865&quot;&gt;According to this school of thought, the goal of enterprise architecture is the greater alignment between IT and business concerns. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1404623368</cardID>
+      <cardIndex>6</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;892..1022&quot;&gt;According to this school of thought, the purpose of EA is to achieve greater coherence across an organization&apos;s many concerns &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2098984554</cardID>
+      <cardIndex>7</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1051..1226&quot;&gt;According to this school of thought, the purpose of enterprise architecture is to support and maintain an organization&apos;s capacity for learning so that it may be sustained.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1338589984</cardID>
+      <cardIndex>8</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1265..1345&quot;&gt;enterprise architecture contributes/gives advantages to the following goals:&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>20588483</cardID>
+      <cardIndex>9</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1513..1673&quot;&gt;goal: Enterprise architecture supports ____ in domains related to the creation and revision of organizational structures during broad organizational change.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>810672664</cardID>
+      <cardIndex>10</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1701..1814&quot;&gt;goal: The collaboration and communication amongst project stakeholders is improved by enterprise architecture&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-676233779</cardID>
+      <cardIndex>11</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1839..2038&quot;&gt;goal: By making the business architecture documentation publicly available, enterprise architecture improves the efficiency of requirement elicitation and the precision of requirement definitions&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-362722886</cardID>
+      <cardIndex>12</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2069..2263&quot;&gt;goal: Enterprise architecture contributes to the reduction of time needed for technology-related decision-making by helping establish discipline and standardization of IT planning processes.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-330277177</cardID>
+      <cardIndex>13</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2303..2463&quot;&gt;goal: Enterprise design helps avoid duplication of IT infrastructure services among business divisions and lower system deployment and operational expenses.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1802988619</cardID>
+      <cardIndex>14</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2478..2569&quot;&gt;goal: The linkage of data and applications, as well as improved system interoperability&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1806567986</cardID>
+      <cardIndex>15</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2589..2670&quot;&gt;goal: Reduction of business risks from system failures and security breaches.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>766494814</cardID>
+      <cardIndex>16</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2695..2836&quot;&gt;These are people who create the solutions to address the business challenges and support the enterprise in implementing those solutions. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>592643321</cardID>
+      <cardIndex>17</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2864..3107&quot;&gt;The ____ connects an organization&apos;s corporate mission, strategy, and business processes to its IT strategy in order to demonstrate how the organization&apos;s present and future demands will be satisfied effectively, sustainably, and adaptable.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2113184436</cardID>
+      <cardIndex>18</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3134..3289&quot;&gt;____ was developed by John Zachman while with IBM in the 1980s, after observing the building and airplane construction industries and the IT industry. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>893760175</cardID>
+      <cardIndex>19</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3319..3377&quot;&gt;Who developed enterprise architecture? When and where?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1005004392</cardID>
+      <cardIndex>20</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3407..3453&quot;&gt;Three questions in enterprise architecture&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-636588519</cardID>
+      <cardIndex>21</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3482..3718&quot;&gt;is a structure for arranging architectural artifacts that consider both the targets of the artifact (such as business owners and system builders) and the specific problem that is being addressed (for example, data and functionality)&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>488445540</cardID>
+      <cardIndex>22</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3742..3779&quot;&gt;Six rows of the Zachman framework&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-363573671</cardID>
+      <cardIndex>23</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4032..4138&quot;&gt;This view describes the business purpose and strategy, defining the playing field for the other views.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>576802230</cardID>
+      <cardIndex>24</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4179..4248&quot;&gt;This view reveals which parts of the enterprise can be automated.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1100860817</cardID>
+      <cardIndex>25</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4290..4380&quot;&gt;This view outlines how the system will satisfy the organization’s information needs.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1944925131</cardID>
+      <cardIndex>26</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4419..4526&quot;&gt;This is a representation of how the system will be implemented while addressing production constraints.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1414796951</cardID>
+      <cardIndex>27</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4575..4675&quot;&gt;These representations illustrate the implementation-specific details of certain system elements.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-614128010</cardID>
+      <cardIndex>28</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4728..4804&quot;&gt;This is a view of the functioning system in its operational environment.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1479893976</cardID>
+      <cardIndex>29</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4846..4924&quot;&gt;What are the interrogatives or questions that are asked of the enterprise?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1016104189</cardID>
+      <cardIndex>30</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5341..5396&quot;&gt;What is the business data, information, or objects?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1121262923</cardID>
+      <cardIndex>31</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5418..5471&quot;&gt;How does the business work by defining processes?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-532917797</cardID>
+      <cardIndex>32</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5497..5543&quot;&gt;When are the business processes performed?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-140969277</cardID>
+      <cardIndex>33</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5565..5673&quot;&gt;Why is the solution chosen, how was it derived and what motivates the performance of certain activities?&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1206954130</cardID>
+      <cardIndex>34</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5741..5887&quot;&gt;is the act of fusing hardware and software components into a single, cohesive architecture, allowing each component to function independently.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1960257136</cardID>
+      <cardIndex>35</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5912..6179&quot;&gt;The term &amp;quot;____&amp;quot; describes the outcome of a process designed to bring together many, frequently divergent subsystems so that the data contained in each becomes a part of a larger, more complete system that, in theory, rapidly and readily distributes data as needed&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1328256132</cardID>
+      <cardIndex>36</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;6204..6333&quot;&gt;the process of joining software and hardware modules into one cohesive infrastructure, enabling all pieces to work as a whole&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1627040058</cardID>
+      <cardIndex>37</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;6358..6395&quot;&gt;Advantages of system integration:&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2063878929</cardID>
+      <cardIndex>38</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;6507..6638&quot;&gt;Identify the advantage. Integrated systems improve workflow efficiency by enabling centralized control over everyday operations&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>361278074</cardID>
+      <cardIndex>39</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;6669..6801&quot;&gt;Identify the advantage. Data is updated all over the components of the system concurrently keeping all the departments informed.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1939627508</cardID>
+      <cardIndex>40</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;6839..7039&quot;&gt;Identify the advantage. Data is no longer dispersed among compartmentalized storages. So, you don&apos;t need to manually download and export it to the centralized repository in order to run analytics.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>591407090</cardID>
+      <cardIndex>41</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7070..7213&quot;&gt;Identify the advantage. System integration is less expensive than replacing every disconnected component with a brand-new integrated system&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1812517456</cardID>
+      <cardIndex>42</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7240..7276&quot;&gt;Ideas on how to connect systems:&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-986227429</cardID>
+      <cardIndex>43</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7390..7534&quot;&gt;most popular and simple method of connecting two systems.  An example is online service providers — from social media to travel platforms.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1614563099</cardID>
+      <cardIndex>44</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7585..7790&quot;&gt;the unnoticed software layer that links distributed systems, applications, services, and devices together. It holds different tasks such as data management, messaging, API management, or authentication&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1154924104</cardID>
+      <cardIndex>45</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7809..7924&quot;&gt;also called HTTP callbacks, are real-time messages, sent by one system to another when a certain event happens.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2055430132</cardID>
+      <cardIndex>46</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7941..7974&quot;&gt;Webhooks are also called ____&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1637287904</cardID>
+      <cardIndex>47</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;7995..8132&quot;&gt;is the replacement of paper documents with the sharing of business information in a common electronic format with no people involved.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-271963793</cardID>
+      <cardIndex>48</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
   </list>
   <info.opencards.core.FlashCardCollection>
     <default>
-      <itColls/>
+      <itColls>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <info.opencards.learnstrats.ltm.LTMCollection serialization="custom">
+            <unserializable-parents/>
+            <list>
+              <default>
+                <size>48</size>
+              </default>
+              <int>48</int>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[3]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[5]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[6]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[7]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[8]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[9]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[10]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[11]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[12]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[13]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[14]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[15]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[16]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[17]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[18]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[19]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[20]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[21]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[22]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[23]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[24]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[25]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[26]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[27]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[28]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[29]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[30]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[31]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[32]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[33]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[34]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[35]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[36]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[37]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[38]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[39]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[40]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[41]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[42]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[43]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[44]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[45]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[46]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[47]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[48]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-28 13:47:09.812 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+            </list>
+            <info.opencards.core.ItemCollection>
+              <default>
+                <props/>
+              </default>
+            </info.opencards.core.ItemCollection>
+          </info.opencards.learnstrats.ltm.LTMCollection>
+        </entry>
+      </itColls>
       <properties/>
-      <syncStates/>
+      <syncStates>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <boolean>false</boolean>
+        </entry>
+      </syncStates>
     </default>
   </info.opencards.core.FlashCardCollection>
 </info.opencards.core.FlashCardCollection>
