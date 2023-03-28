@@ -22,6 +22,18 @@ strategic analysis
 
 9
 
+## Nine steps in strategy analysis:
+
+1. Understand the mission and purpose.
+2. Identify the major business areas.
+3. Determine what has to be achieved.
+4. Identify issues representing opportunities or problems.
+5. Determine what will achieve or resolve the issues.
+6. Define Key Performance Indicators (KPIs).
+7. Identify the current functions that exist.
+8. Allocate functional responsibility to implement strategies.
+9. Define job responsibilities for each function.
+
 ## strategy analysis step 1:
 
 understand the mission and purpose
@@ -57,6 +69,14 @@ allocate functional responsibility to implement strategies
 ## strategy analysis step 9:
 
 define job responsibilities for each function
+
+## An ideal mission should broadly indicate:
+
+- geography
+- markets
+- customers
+- products
+- services
 
 ## characteristics of goals and objectives
 
@@ -104,6 +124,40 @@ quantitative
 
 ![summary of steps of strategy analysis](Module-3/strategy-analysis-summary.png)
 
+## True/False: strategy analysis is easy to learn and use.
+
+True
+
 <!-- Lesson 2: Enterprise Architecture Methods -->
 
-## 
+## software engineering (SE) documentation may be:
+
+- data flow diagrams (DFDs)
+- functional decomposition diagrams (FDDs)
+- structure charts (SCs)
+
+## The first relational database management systems (RDBMSs) were released by:
+
+- IBM Corporation (IBM DB2 RDBMS)
+- Oracle Corporation (Oracle RDBMS)
+
+## Different diagrams to model various aspects of O-O development:
+
+- class diagram
+- state transition
+- use-case diagram
+- collaboration
+- sequence
+- activity diagram
+
+## ________ develop associated UML modeling Software tools, widely used in the late 1990s.
+
+Rational Corporation
+
+## IBM purchased Rational Corporation in ____, The Rational software tools became IBM software tools
+
+2003
+
+## Enterprise Architecture is applied in a ________
+
+top-down approach
