@@ -351,11 +351,43 @@ Stage 7: Singularity and Trancendence
 - General AI
 - Strong/Super AI
 
+## is a type of AI which is able to perform a dedicated task with intelligence. 
+
+- Weak/Narrow AI
+
+## ________ is a good example of Narrow AI, but it operates with a limited predefined range of functions. 
+
+Apple Siri
+
+## is a type of intelligence that could perform any intellectual task with efficiency like a human. 
+
+- General AI
+
+## is a level of Intelligence of Systems at which machines could surpass human intelligence, and can perform any task better than a human with cognitive properties.
+
+- Strong/Super AI
+
 ## Artificial Intelligence Type-2: Based on Functionality
 
 - Reactive machines
 - Limited memory
 - Theory of Mind
+- Self-awareness
+
+## are the most basic types of Artificial Intelligence. 
+
+- Reactive machines
+
+## machines that can store past experiences or some data for a short period of time. Self-driving cars are one example of this.
+
+- Limited memory
+
+## level of AI that  should understand human emotions, people, beliefs, and be able to interact socially like humans. 
+
+- Theory of Mind
+
+## at this level machines will be super intelligent and will have their own consciousness, sentiments, and selfawareness. 
+
 - Self-awareness
 
 ## Layers of AI systems
