@@ -1,5 +1,7 @@
 <!-- Module 1: Introduction to System Integration and Architecture -->
 
+<!-- Lesson 1: Architecture and Enterprise Engineering -->
+
 ## Is a guide map that can reduce risks of project implementation
 
 enterprise architecture
@@ -100,12 +102,12 @@ Zachman framework
 
 ## Six rows of the Zachman framework
 
-- Planner's View 
-- Owner's View
-- Designer's View
-- Implementer's View
-- Sub-Constructor's View
-- User's View
+- Planner’s View (Scope Contexts) 
+- Owner’s View (Business Concepts) 
+- Designer’s View (System Logic)
+- Implementer’s View (Technology Physics) 
+- Sub-Constructor’s View (Component Assembles)
+- User’s View (Operations Classes) 
 
 ## This view describes the business purpose and strategy, defining the playing field for the other views.
 
@@ -119,8 +121,102 @@ Owner’s View (Business Concepts)
 
 Designer’s View (System Logic)
 
-## 
+## This is a representation of how the system will be implemented while addressing production constraints.
+
+Implementer’s View (Technology Physics) 
+
+## These representations illustrate the implementation-specific details of certain system elements.
+
+Sub-Constructor’s View (Component Assembles)
+
+## This is a view of the functioning system in its operational environment.
+
+User’s View (Operations Classes) 
+
+## What are the interrogatives or questions that are asked of the enterprise?
+
+- **What (data)** – What is the business data, information, or objects?
+- **How (function)** – How does the business work by defining processes?
+- **Where (network)** – Where are the business operations?
+- **When (time)** – When are the business processes performed?
+- **Why (motivation)** – Why is the solution chosen, how was it derived and what motivates the performance of certain activities?
+
+## What is the business data, information, or objects?
+
+What (**data**)
+
+## How does the business work by defining processes?
+
+Where (**network**)
+
+## When are the business processes performed?
+
+When (**time**)
+
+## Why is the solution chosen, how was it derived and what motivates the performance of certain activities?
+
+Why (**motivation**)
+
+<!-- Lesson 2: System Integration -->
+
+## is the act of fusing hardware and software components into a single, cohesive architecture, allowing each component to function independently.
+
+system integration
+
+## The term "____" describes the outcome of a process designed to bring together many, frequently divergent subsystems so that the data contained in each becomes a part of a larger, more complete system that, in theory, rapidly and readily distributes data as needed
+
+system integration
 
 ## the process of joining software and hardware modules into one cohesive infrastructure, enabling all pieces to work as a whole
 
 system integration
+
+## Advantages of system integration:
+
+- Increased Productivity
+- Accurate and Trustworthy Data
+- Faster decision-making
+- Cost-effectiveness
+
+## Identify the advantage. Integrated systems improve workflow efficiency by enabling centralized control over everyday operations
+
+- Increased Productivity
+
+## Identify the advantage. Data is updated all over the components of the system concurrently keeping all the departments informed.
+
+- Accurate and Trustworthy Data
+
+## Identify the advantage. Data is no longer dispersed among compartmentalized storages. So, you don't need to manually download and export it to the centralized repository in order to run analytics.
+
+- Faster decision-making
+
+## Identify the advantage. System integration is less expensive than replacing every disconnected component with a brand-new integrated system
+
+- Cost-effectiveness
+
+## Ideas on how to connect systems:
+
+- Application programming interfaces (APIs) 
+- Middleware
+- Webhooks
+- Electronic Data Interchange (EDI)
+
+## most popular and simple method of connecting two systems.  An example is online service providers — from social media to travel platforms.
+
+- Application programming interfaces (APIs) 
+
+## the unnoticed software layer that links distributed systems, applications, services, and devices together. It holds different tasks such as data management, messaging, API management, or authentication
+
+- Middleware
+
+## also called HTTP callbacks, are real-time messages, sent by one system to another when a certain event happens.
+
+- Webhooks
+
+## Webhooks are also called ____
+
+HTTP callbacks
+
+## is the replacement of paper documents with the sharing of business information in a common electronic format with no people involved.
+
+- Electronic Data Interchange (EDI)
