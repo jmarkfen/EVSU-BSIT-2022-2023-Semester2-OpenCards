@@ -1,10 +1,14 @@
-## What is a balanced scorecard (BSC)?
+<!-- Module 2: Balanced Scorecard and Strategy Maps -->
 
-strategy performance management tool and semi-structured report used by managers to track the actions of the staff and monitor their consequences
+<!-- Lesson 1: Introduction to Balanced Scorecards -->
 
-## What is a balanced scorecard (BSC) #2?
+## It is a strategy performance management tool and semi-structured report used by managers to track the actions of the staff and monitor their consequences
 
-strategic planning and management system used to align business activities to the vision and strategy of the organization
+balanced scorecard (BSC)
+
+## It is a strategic planning and management system used to align business activities to the vision and strategy of the organization
+
+balanced scorecard (BSC)
 
 ## Who published the balanced scorecard?
 
@@ -26,6 +30,10 @@ Kaplan and Norton
 - Make Strategy a Continual Process
 - Organize Change Through Executive Leadership
 
+## is a strategy performance management tool - a structured report.
+
+balanced scorecard (BSC)
+
 ## Why was the balanced scorecard introduced?
 
 to overcome the limitations of managing with only financial measures.
@@ -37,21 +45,9 @@ to overcome the limitations of managing with only financial measures.
 - Customer
 - Financial
 
-## What does 'Learning and Growth' perspective in a balanced scorecard refer to?
+## If you train your employees (________) they’ll make your company run more smoothly (________). A better running business takes better care of its customers (________), and happy customers buy more stuff (________).
 
-employee training
- 
-## What does 'Internal Business Processes' perspective in a balanced scorecard refer to?
-
-company running smoothly
-
-## What does 'Customer' perspective in a balanced scorecard refer to?
-
-better care of customers
-
-## What does 'Internal Business Processes' perspective in a balanced scorecard refer to?
-
-satisfied customers will buy more
+Learning and Growth, Internal Business Processes, Customer, Financial
 
 ## Identify the perspective: 'What must we do to create sustainable economic value?'
 
@@ -69,6 +65,10 @@ Learning and Growth
 
 Customer
 
+## ________ show the dependent components of a strategic plan
+
+strategy maps
+
 ## As a model of performance, BSC clears the links between:
 
 - leading inputs (human and physical)
@@ -82,3 +82,22 @@ Customer
 - can be tracked on paper, spreadsheets, or specialized software
 - have many variations but certain similarities
 - gives light on the company's vision and mission
+
+## How many steps are there to develop balanced scorecards and strategy maps?
+
+8
+
+## Steps to developed balanced scorecards and stragegy maps
+
+1.	Assess the competitive environment.
+2.	Learn about customer preferences and segments.
+3.	Select the targeted customer segments.
+4.	Determine the value proposition for the targeted customers.
+5.	Define a strategy to generate breakthrough financial performance.
+6.	Articulate the balance between growth and productivity.
+7.	Identify the critical internal business processes to deliver the value proposition to customers and for the financial and productivity objectives.
+8.	Develop the skills, competencies, motivation, databases, and technology required to excel at internal processes and customer value delivery.
+
+## is a framework to link intangible assets to shareholder value creation.
+
+strategy map
