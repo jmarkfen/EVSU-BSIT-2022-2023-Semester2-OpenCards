@@ -1,8 +1,12 @@
 <!-- Module 1: Introduction to System Integration and Architecture -->
 
-## the process of joining software and hardware modules into one cohesive infrastructure, enabling all pieces to work as a whole
+## Is a guide map that can reduce risks of project implementation
 
-system integration
+enterprise architecture
+
+## A method for managing your business or enterprise. It is a decision-making, change management tool and the knowledgebase of your business or enterprise.
+
+enterprise architecture
 
 ## Scope of enterprise architecture
 
@@ -18,19 +22,19 @@ system integration
 - enterprise integrating
 - enterprise ecological adaptation
 
-## According to this school, the purpose of enterprise architecture is the greater alignment between IT and business concerns. 
+## According to this school of thought, the goal of enterprise architecture is the greater alignment between IT and business concerns. 
 
 enterprise IT design
 
-## According to this school, the purpose of EA is to achieve greater coherence across an organization's many concerns 
+## According to this school of thought, the purpose of EA is to achieve greater coherence across an organization's many concerns 
 
 enterprise integrating
 
-## According to this school, the purpose of enterprise architecture is to support and maintain an organization's capacity for learning so that it may be sustained.
+## According to this school of thought, the purpose of enterprise architecture is to support and maintain an organization's capacity for learning so that it may be sustained.
 
 enterprise ecological adaptation
 
-## enterprise architecture contributes to the following goals:
+## enterprise architecture contributes/gives advantages to the following goals:
 
 - organizational design
 - project management
@@ -68,6 +72,14 @@ IT complexity
 
 IT risk management
 
+## These are people who create the solutions to address the business challenges and support the enterprise in implementing those solutions. 
+
+enterprise architects
+
+## The ____ connects an organization's corporate mission, strategy, and business processes to its IT strategy in order to demonstrate how the organization's present and future demands will be satisfied effectively, sustainably, and adaptable.
+
+enterprise architect
+
 ## ____ was developed by John Zachman while with IBM in the 1980s, after observing the building and airplane construction industries and the IT industry. 
 
 Enterprise Architecture
@@ -95,3 +107,20 @@ Zachman framework
 - Sub-Constructor's View
 - User's View
 
+## This view describes the business purpose and strategy, defining the playing field for the other views.
+
+Planner’s View (Scope Contexts) 
+
+## This view reveals which parts of the enterprise can be automated.
+
+Owner’s View (Business Concepts) 
+
+## This view outlines how the system will satisfy the organization’s information needs.
+
+Designer’s View (System Logic)
+
+## 
+
+## the process of joining software and hardware modules into one cohesive infrastructure, enabling all pieces to work as a whole
+
+system integration
