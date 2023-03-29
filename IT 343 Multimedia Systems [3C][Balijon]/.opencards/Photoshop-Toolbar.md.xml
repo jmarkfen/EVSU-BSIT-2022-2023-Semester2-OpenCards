@@ -2,9 +2,9 @@
   <unserializable-parents/>
   <list>
     <default>
-      <size>2</size>
+      <size>14</size>
     </default>
-    <int>2</int>
+    <int>14</int>
     <info.opencards.core.FlashCard>
       <cardTitle>&lt;!--&#xd;
 hello&#xd;
@@ -14,9 +14,81 @@ hello&#xd;
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;20..58&quot;&gt;Enumerate move and selection tools&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>313154450</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;20..60&quot;&gt;used to move layers/selection/guides&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-378392648</cardID>
       <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;76..105&quot;&gt;easily desing web layouts&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2123655867</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;125..159&quot;&gt;selects a single row of pixels&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2086345639</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;189..211&quot;&gt;freeform selection&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>347931298</cardID>
+      <cardIndex>5</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;228..277&quot;&gt;select an objet by dragging a rough selection&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1462993793</cardID>
+      <cardIndex>6</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;305..337&quot;&gt;select areas of similar colo&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>2121246516</cardID>
+      <cardIndex>7</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;359..387&quot;&gt;crop and fix perspective&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>15939513</cardID>
+      <cardIndex>8</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;415..432&quot;&gt;sample colors&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1180502289</cardID>
+      <cardIndex>9</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;454..475&quot;&gt;removes blemishes&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1608113746</cardID>
+      <cardIndex>10</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;505..550&quot;&gt;repair larger areas by painting over them&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1900521747</cardID>
+      <cardIndex>11</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;575..593&quot;&gt;remove red eye&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1645031560</cardID>
+      <cardIndex>12</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;612..616&quot;&gt; &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1226421280</cardID>
+      <cardIndex>13</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;619..657&quot;&gt;Enumerate move and selection tools&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-886461205</cardID>
+      <cardIndex>14</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
   </list>
@@ -29,9 +101,9 @@ hello&#xd;
             <unserializable-parents/>
             <list>
               <default>
-                <size>2</size>
+                <size>14</size>
               </default>
-              <int>2</int>
+              <int>14</int>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
                 <itemProps/>
@@ -44,7 +116,91 @@ hello&#xd;
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-16 05:22:35.744 UTC</lastQuery>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[3]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[5]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[6]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[7]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[8]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[9]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[10]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[11]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[12]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[13]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[14]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 05:15:59.214 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
             </list>
             <info.opencards.core.ItemCollection>
@@ -60,9 +216,9 @@ hello&#xd;
             <unserializable-parents/>
             <list>
               <default>
-                <size>2</size>
+                <size>14</size>
               </default>
-              <int>2</int>
+              <int>14</int>
               <info.opencards.learnstrats.leitner.LeitnerItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
                 <itemProps/>
@@ -71,7 +227,67 @@ hello&#xd;
               <info.opencards.learnstrats.leitner.LeitnerItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
                 <itemProps/>
-                <itemState>5</itemState>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[3]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[5]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[6]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[7]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[8]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[9]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[10]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[11]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[12]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[13]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[14]"/>
+                <itemProps/>
+                <itemState>-100</itemState>
               </info.opencards.learnstrats.leitner.LeitnerItem>
             </list>
             <info.opencards.core.ItemCollection>
@@ -85,13 +301,24 @@ hello&#xd;
                 <boxes>
                   <list>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem"/>
-                  </list>
-                  <list/>
-                  <list/>
-                  <list/>
-                  <list>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[2]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[3]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[4]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[5]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[6]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[7]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[8]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[9]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[10]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[11]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[12]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[13]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[14]"/>
                   </list>
+                  <list/>
+                  <list/>
+                  <list/>
+                  <list/>
                 </boxes>
               </default>
             </info.opencards.learnstrats.leitner.LeitnerSystem>
@@ -102,11 +329,11 @@ hello&#xd;
       <syncStates>
         <entry>
           <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <java-class>info.opencards.learnstrats.leitner.LeitnerItem</java-class>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
       </syncStates>
     </default>

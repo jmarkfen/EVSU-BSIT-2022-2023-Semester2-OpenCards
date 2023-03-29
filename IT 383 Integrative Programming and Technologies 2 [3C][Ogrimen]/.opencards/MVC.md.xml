@@ -2,9 +2,9 @@
   <unserializable-parents/>
   <list>
     <default>
-      <size>16</size>
+      <size>28</size>
     </default>
-    <int>16</int>
+    <int>28</int>
     <info.opencards.core.FlashCard>
       <cardTitle>&lt;h1 md-src-pos=&quot;0..109&quot;&gt;A software design pattern which separates concerns of an application into the model, view, and controller&#xd;&lt;/h1&gt;</cardTitle>
       <cardID>1019405058</cardID>
@@ -18,87 +18,159 @@
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;300..323&quot;&gt;Alternatives to MVC&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1463135406</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;300..547&quot;&gt;The MVC framework separates the application into three components - Model, View, and Controller. This separation allows developers to focus on specific tasks, such as database access, user interface design, and application logic, independently&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>555410272</cardID>
       <cardIndex>3</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;498..595&quot;&gt;In the MVC pattern, it is responsible for managing the application&apos;s data and business logic.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1350723150</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;578..809&quot;&gt;MVC frameworks provide a set of pre-built libraries, modules, and tools that can be reused across different projects. This saves developers time and effort by eliminating the need to write and test the same code multiple times.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1357090830</cardID>
       <cardIndex>4</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;607..712&quot;&gt;In the MVC pattern, it interacts with the database and other data sources to retrieve and store data.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-957015359</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;829..1098&quot;&gt;MVC frameworks are designed to handle large, complex applications with ease. The modular architecture of MVC frameworks allows developers to add or remove functionality without affecting the rest of the application, making it easier to scale applications as needed.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1189830859</cardID>
       <cardIndex>5</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;724..814&quot;&gt;In the MVC pattern, it contains validation and processing logic for manipulating data.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-730564551</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1118..1388&quot;&gt;MVC frameworks provide a clear structure for application code that is easy to maintain. By separating application logic into three distinct components, developers can easily update, modify, or fix any part of the application without affecting the rest of the system.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1007174635</cardID>
       <cardIndex>6</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;826..913&quot;&gt;In the MVC pattern, it acts as the backend and handles all data-related operations.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1979236695</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1412..1700&quot;&gt;Many popular MVC frameworks have large and active developer communities that contribute to the development, testing, and maintenance of the framework. This means that developers can rely on community support and resources to solve problems, share best practices, and learn new skills.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>299412138</cardID>
       <cardIndex>7</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;925..1013&quot;&gt;In the MVC pattern, it is responsible for presenting the user interface to the user.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>406499698</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1726..1907&quot;&gt;MVC frameworks often provide built-in security features, such as input validation and authentication, that help developers ensure the safety and integrity of their applications.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-960152893</cardID>
       <cardIndex>8</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1024..1126&quot;&gt;In the MVC pattern, it serves as the frontend and handles all user interface-relation operations. &#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>404073069</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1924..1947&quot;&gt;Alternatives to MVC&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-13272290</cardID>
       <cardIndex>9</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1137..1210&quot;&gt;In the MVC pattern, it sends input to the controller for processing. &#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-1458816968</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2122..2339&quot;&gt;This pattern is similar to MVC but places more emphasis on the presentation layer. The Presenter acts as an intermediary between the Model and View and is responsible for handling user input and updating the View.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>856010102</cardID>
       <cardIndex>10</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1221..1326&quot;&gt;In the MVC pattern, it is responsible for managing user requests and coordinating the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-634623899</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2374..2564&quot;&gt;This pattern is commonly used in client-side web development and is similar to MVP. The ViewModel acts as a mediator between the Model and View and provides data binding between the two.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>497878428</cardID>
       <cardIndex>11</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1343..1439&quot;&gt;In the MVC pattern, it receives input from the View and processes it according to the Model.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-60150275</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2600..2815&quot;&gt;This pattern is an extension of the MVC pattern that is designed for large-scale applications. It allows for the creation of modular, reusable components that can be used across different parts of an application.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1377813629</cardID>
       <cardIndex>12</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1456..1533&quot;&gt;In the MVC pattern, it serves as the mediator between the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-902049549</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;2865..3146&quot;&gt;Some modern frontend frameworks, such as React and Angular, use their own architectural patterns that focus on the frontend layer. These patterns often incorporate the concepts of MVC, such as separating concerns and creating reusable components, but with a different emphasis.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1768916500</cardID>
       <cardIndex>13</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1550..1650&quot;&gt;In the MVC pattern, it is responsible for updating the View with the latest data from the Model.&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>1309949137</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3185..3446&quot;&gt;This pattern focuses on building applications around the domain, or the business logic of the application. It emphasizes modeling the problem domain in the code and creating a flexible, maintainable architecture that can evolve with changing business needs.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2061592750</cardID>
       <cardIndex>14</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;1667..1698&quot;&gt;Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-795395608</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3481..3578&quot;&gt;In the MVC pattern, it is responsible for managing the application&apos;s data and business logic.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-719908845</cardID>
       <cardIndex>15</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
     <info.opencards.core.FlashCard>
-      <cardTitle>&lt;h1 md-src-pos=&quot;2072..2109&quot;&gt;tldr; Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
-      <cardID>-962989466</cardID>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3590..3695&quot;&gt;In the MVC pattern, it interacts with the database and other data sources to retrieve and store data.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1782393508</cardID>
       <cardIndex>16</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3707..3797&quot;&gt;In the MVC pattern, it contains validation and processing logic for manipulating data.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1895355996</cardID>
+      <cardIndex>17</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3809..3896&quot;&gt;In the MVC pattern, it acts as the backend and handles all data-related operations.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1931294886</cardID>
+      <cardIndex>18</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;3908..3996&quot;&gt;In the MVC pattern, it is responsible for presenting the user interface to the user.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-2008664656</cardID>
+      <cardIndex>19</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4007..4109&quot;&gt;In the MVC pattern, it serves as the frontend and handles all user interface-relation operations. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>352255409</cardID>
+      <cardIndex>20</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4120..4193&quot;&gt;In the MVC pattern, it sends input to the controller for processing. &#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1937961750</cardID>
+      <cardIndex>21</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4204..4309&quot;&gt;In the MVC pattern, it is responsible for managing user requests and coordinating the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1853693601</cardID>
+      <cardIndex>22</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4326..4422&quot;&gt;In the MVC pattern, it receives input from the View and processes it according to the Model.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>948008406</cardID>
+      <cardIndex>23</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4439..4516&quot;&gt;In the MVC pattern, it serves as the mediator between the Model and View.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-694224593</cardID>
+      <cardIndex>24</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4533..4633&quot;&gt;In the MVC pattern, it is responsible for updating the View with the latest data from the Model.&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>1359057173</cardID>
+      <cardIndex>25</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;4650..4681&quot;&gt;Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1592514950</cardID>
+      <cardIndex>26</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5055..5092&quot;&gt;tldr; Flow of data in MVC pattern&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>671501400</cardID>
+      <cardIndex>27</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;5302..5326&quot;&gt;BONUS: How MVC Works&#xd;&lt;/h1&gt;</cardTitle>
+      <cardID>-1065746577</cardID>
+      <cardIndex>28</cardIndex>
       <revPolicy>NORMAL</revPolicy>
     </info.opencards.core.FlashCard>
   </list>
@@ -111,9 +183,9 @@
             <unserializable-parents/>
             <list>
               <default>
-                <size>16</size>
+                <size>28</size>
               </default>
-              <int>16</int>
+              <int>28</int>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
                 <itemProps/>
@@ -133,98 +205,182 @@
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[5]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[6]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[7]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[8]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[9]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[10]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[11]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[12]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[13]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[14]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[15]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
               <info.opencards.learnstrats.ltm.LTMItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[16]"/>
                 <itemProps/>
                 <easiness>2.5</easiness>
                 <numRepetition>0</numRepetition>
-                <lastQuery>2023-03-22 08:39:38.473 UTC</lastQuery>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[17]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[18]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[19]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[20]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[21]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[22]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[23]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[24]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[25]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[26]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[27]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[28]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>0</numRepetition>
+                <lastQuery>2023-03-29 04:34:35.715 UTC</lastQuery>
               </info.opencards.learnstrats.ltm.LTMItem>
             </list>
             <info.opencards.core.ItemCollection>
@@ -240,9 +396,9 @@
             <unserializable-parents/>
             <list>
               <default>
-                <size>16</size>
+                <size>28</size>
               </default>
-              <int>16</int>
+              <int>28</int>
               <info.opencards.learnstrats.leitner.LeitnerItem>
                 <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
                 <itemProps/>
@@ -323,6 +479,66 @@
                 <itemProps/>
                 <itemState>5</itemState>
               </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[17]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[18]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[19]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[20]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[21]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[22]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[23]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[24]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[25]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[26]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[27]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
+              <info.opencards.learnstrats.leitner.LeitnerItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[28]"/>
+                <itemProps/>
+                <itemState>5</itemState>
+              </info.opencards.learnstrats.leitner.LeitnerItem>
             </list>
             <info.opencards.core.ItemCollection>
               <default>
@@ -334,29 +550,38 @@
                 <initBox>0</initBox>
                 <boxes>
                   <list/>
+                  <list/>
+                  <list/>
+                  <list/>
                   <list>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[11]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[8]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[12]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[9]"/>
-                  </list>
-                  <list>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[16]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[3]"/>
-                  </list>
-                  <list>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[13]"/>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[6]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[4]"/>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[7]"/>
-                  </list>
-                  <list>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[5]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[2]"/>
-                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[14]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[19]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[21]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[16]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[23]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[24]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[27]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[12]"/>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[15]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[26]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[8]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[28]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[4]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[22]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[13]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[17]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[18]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[14]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[2]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[25]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[11]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[20]"/>
                     <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[10]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[9]"/>
+                    <info.opencards.learnstrats.leitner.LeitnerItem reference="../../../../../list/info.opencards.learnstrats.leitner.LeitnerItem[3]"/>
                   </list>
                 </boxes>
               </default>
