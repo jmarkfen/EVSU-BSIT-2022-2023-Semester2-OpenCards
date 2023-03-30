@@ -22,7 +22,7 @@
 
 - secondary colors
 
-## Three primary colors:
+## Three secondary colors:
 
 - orange
 - green
