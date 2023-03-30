@@ -1,4 +1,4 @@
 # ignore
 .opencards/*
 *.xml
-*.xml
+**/*.xml
