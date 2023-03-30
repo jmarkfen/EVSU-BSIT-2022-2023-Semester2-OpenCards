@@ -4,49 +4,47 @@ hello
 
 ## used to move layers/selection/guides
 
-move tool
+- move tool
 
-## easily desing web layouts
+## easily design web layouts
 
-artboard tool
+- artboard tool
 
 ## selects a single row of pixels
 
-single row marquee tool
+- single row marquee tool
 
 ## freeform selection
 
-lasso tool
+- lasso tool
 
 ## select an objet by dragging a rough selection
 
-object selection tool
+- object selection tool
 
-## select areas of similar colo
+## select areas of similar color
 
-magic wand tool
+- magic wand tool
 
 ## crop and fix perspective
 
-perspective crop tool
+- perspective crop tool
 
 ## sample colors
 
-eyedropper tool
+- eyedropper tool
 
 ## removes blemishes
 
-spot healing brush tool
+- spot healing brush tool
 
 ## repair larger areas by painting over them
 
-healing brush tool
+- healing brush tool
 
 ## remove red eye
 
-red eye tool
-
-## 
+- red eye tool
 
 ## Enumerate move and selection tools
 
@@ -54,3 +52,4 @@ red eye tool
 - artboard tool ![alt](Lesson-4-Adobe-Photoshop/photoshop-artboard-tool.png)
 - rectangular marquee tool ![alt](Lesson-4-Adobe-Photoshop/photoshop-rectangular-marquee-tool.png)
 - elliptical marquee tool ![alt](Lesson-4-Adobe-Photoshop/photoshop-elliptical-marquee-tool.png)
+
