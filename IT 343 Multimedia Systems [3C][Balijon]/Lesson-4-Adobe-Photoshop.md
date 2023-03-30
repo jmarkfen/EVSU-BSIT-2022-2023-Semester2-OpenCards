@@ -1,5 +1,5 @@
 <!--
-hello
+Lesson 4: Adobe Photoshop
 -->
 
 ## used to move layers/selection/guides
