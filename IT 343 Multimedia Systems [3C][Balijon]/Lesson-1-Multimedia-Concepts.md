@@ -48,11 +48,15 @@
 
 - Ted Nelson, 1965
 
-## A Multimedia Project is identified as ____ when it is not interactive and the user have no control over the content that is being showed to them
+## is not constrained to be text-based. It can include other media, e.g., graphics, images, and especially the continuous media – sound and video.
+
+- hypermedia
+
+## A multimedia project is identified as ____ when it is not interactive and the user have no control over the content that is being showed to them
 
 - linear
 
-## A Multimedia Project is identified as ____ when it is interactive and the user have control over the content that is being showed to them
+## A multimedia project is identified as ____ when it is interactive and the user have control over the content that is being showed to them
 
 - non-linear
 
@@ -75,3 +79,23 @@
 ## enables the user to directly respond to and control any or all of the media elements.
 
 - interactive multimedia
+
+## Person who develops or refines a design process and efficiently creates a cohesive and well- planned website from the front end
+
+- web designer
+
+## Person who ensures the communication between the front end of the website and its back end is working
+
+- web developer
+
+## Person who makes sure the web page is technically correct and functional on the Web Server
+
+- web master
+
+## They create 2D/3D animation by taking a sequence of static images and displaying them in rapid succession on the computer screen
+
+- animation specialist
+
+## They coordinate the creation of the artwork for the project
+
+- art director
