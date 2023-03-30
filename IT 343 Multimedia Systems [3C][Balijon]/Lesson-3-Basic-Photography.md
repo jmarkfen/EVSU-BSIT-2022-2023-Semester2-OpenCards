@@ -28,9 +28,17 @@
 
 - Aperture
 
+## This camera setting affects the depth of field
+
+- Aperture
+
 ## refers to the range of distance in focus
 
 - Depth of field
+
+## This camera setting how sharp or blurry moving objects are captured.
+
+- Shutter speed
 
 ## Blur-free action shots need a high shutter speed (True/False)
 
@@ -44,11 +52,14 @@
 
 - ISO
 
-## A lower ISO setting (e.g. 100) reduces noise (True/False)
+## A lower ISO setting (e.g. 100) leads to less noise/finer grain (True/False)
 
 - True
 
-## ____ lenses allow more of a picture to be captured (need focal point) while ____ lenses tighten the scene and isolate the subject (but affect the depth of field & increase camera shake)
+## ____ lenses allow more of a picture to be captured (need focal point) 
 
-- wide-angle, telephoto
+- wide-angle
 
+## ____ lenses tighten the scene and isolate the subject (but affect the depth of field & increase camera shake)
+
+ - telephoto
