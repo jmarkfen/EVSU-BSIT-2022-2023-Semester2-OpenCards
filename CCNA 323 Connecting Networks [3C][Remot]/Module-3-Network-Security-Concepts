@@ -240,3 +240,125 @@ Hacking Tools
 
 - Access
 
+<!-- 3.6: IP Vulnerabilities and Threats -->
+
+<!-- Check Your Understanding - IP Vulnerabilities and Threats -->
+
+## Which attack is being used when threat actors position themselves between a source and destination to transparently monitor, capture, and control the communication?
+
+- MiTM Attack
+
+## Which attack is being used when threat actors gain access to the physical network, and then use an MiTM attack to capture and manipulate a legitimate user’s traffic?
+
+- Session Hijacking
+
+## Which attack is being used when threat actors initiate a simultaneous, coordinated attack from multiple source machines?
+
+- Amplification and Reflection Attacks
+
+## Which attack is being used when threat actors use pings to discover subnets and hosts on a protected network, to generate flood attacks, and to alter host routing tables?
+
+- ICMP Attack
+
+## Which attack being used is when a threat actor creates packets with false source IP address information to either hide the identity of the sender, or to pose as another legitimate user?
+
+- Address Spoofing Attack
+
+<!-- 3.7: TCP and UDP Vulnerabilities -->
+
+<!-- Check Your Understanding - TCP and UDP Vulnerabilities -->
+
+## Which attack exploits the three-way handshake?
+
+- TCP SYN Flood attack
+
+## Two hosts have established a TCP connection and are exchanging data. A threat actor sends a TCP segment with the RST bit set to both hosts informing them to immediately stop using the TCP connection. Which attack is this?
+
+- TCP reset attack
+
+## Which attack is being used when the threat actor spoofs the IP address of one host, predicts the next sequence number, and sends an ACK to the other host?
+
+- TCP session hijacking
+
+## A program sends a flood of UDP packets from a spoofed host to a server on the subnet sweeping through all the known UDP ports looking for closed ports. This will cause the server to reply with an ICMP port unreachable message. Which attack is this?
+
+- UDP flood attack
+
+<!-- 3.8: IP Services -->
+
+## Threat actors send spoofed, falsified record resource (RR) information to a DNS resolver to redirect users from legitimate sites to malicious sites.
+
+- DNS cache poisoning attacks
+
+## Threat actors use DoS or DDoS attacks on DNS open resolvers to increase the volume of attacks and to hide the true source of an attack
+
+- DNS amplification and reflection attacks
+
+## A DoS attack that consumes the resources of the DNS open resolvers. This DoS attack consumes all the available resources to negatively affect the operations of the DNS open resolver
+
+- DNS resource utilization attacks
+
+## Threat actors use this technique to hide their phishing and malware delivery sites behind a quickly-changing network of compromised DNS hosts. The DNS IP addresses are continuously changed within minutes
+
+- Fast Flux
+
+## Threat actors use this technique to rapidly change the hostname to IP address mappings and to also change the authoritative name server
+
+- Double IP Flux
+
+## Threat actors use this technique in malware to randomly generate domain names that can then be used as rendezvous points to their command and control (C&C) servers.
+
+- Domain Generation Algorithms
+
+## Threat actors use this method to place non-DNS traffic within DNS traffic. This method often circumvents security solutions when a threat actor wishes to communicate with bots inside a protected network, or exfiltrate data from the organization, such as a password database
+
+- DNS Tunneling
+
+## occurs when a rogue DHCP server is connected to the network and provides false IP configuration parameters to legitimate clients
+
+- DHCP Spoofing Attack
+
+<!-- 3.9: Network Security Best Practices -->
+
+<!-- Check Your Understanding - Network Security Best Practices -->
+
+## Which network security device ensures that internal traffic can go out and come back, but external traffic cannot initiate connections to inside hosts?
+
+- ASA Firewall
+
+## Which network security device contains a secure database of who is authorized to access and manage network devices?
+
+- AAA Server
+
+## Which network security device filters known and suspicious internet malware sites?
+
+- ESA/ESA
+
+## Which network security device is used to provide secure services with corporate sites and remote access support for remote users using secure encrypted tunnels?
+
+- VPN
+
+## Which network security device monitors incoming and outgoing traffic looking for malware, network attack signatures, and if it recognizes a threat, it can immediately stop it?
+
+- IPS
+
+<!-- 3.10: Cryptography -->
+
+<!-- Check Your Understanding - Cryptography -->
+
+## Which encryption method repeats an algorithm process three times and is considered very trustworthy when implemented using very short key lifetimes?
+
+- Triple DES
+
+## Which encryption method encrypts plaintext one byte or one bit at a time?
+
+- Stream Cipher
+
+## Which encryption method uses the same key to encrypt and decrypt data?
+
+- Symmetric
+
+## Which encryption method is a stream cipher and is used to secure web traffic in SSL and TLS?
+
+- Rivest Cipher
+
