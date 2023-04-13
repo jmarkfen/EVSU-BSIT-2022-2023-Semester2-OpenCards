@@ -1,3 +1,7 @@
+<!-- Module 3: Network Security Concepts -->
+
+<!-- 3.1: Current State of Cybersecurity -->
+
 ##  is anything of value to the organization. It includes people, equipment, resources, and data.
 
 - Assets
@@ -67,6 +71,8 @@
 
 - Improper Access Control
 
+<!-- 3.2: Threat Actors -->
+
 # is a common term used to describe a threat actor. Originally the term referred to someone who was a skilled computer expert such as a programmer and a hack was a clever solution.
 
 - Hacker 
@@ -127,9 +133,110 @@
 
 - Anonymous 
 - Syrian Electronic Army
-- 
+
 ## An example of a state-sponsored attack involves the ____ malware that was created to damage Iran’s nuclear enrichment capabilities.
 
 - Stuxnet
 
-## 
+<!-- 3.3: Threat Actor Tools -->
+
+## often referred to as password recovery tools. This is accomplished either by removing the original password, after bypassing the data encryption, or by outright discovery of the password. These tools repeatedly make guesses in order to crack the password.
+
+- Password Crackers
+
+##  Examples of password cracking tools include:
+
+- John the Ripper
+- Ophcrack
+- L0phtCrack
+- THC Hydra
+- RainbowCrack
+- Medusa
+
+## are used to intentionally hack into a wireless network to detect security vulnerabilities. 
+
+- Wireless Hacking Tools
+
+## are used to probe network devices, servers, and hosts for open TCP or UDP ports
+
+- Network Scanning and
+Hacking Tools
+
+## These tools are used to probe and test a firewall’s robustness using specially crafted forged packets
+
+- Packet Crafting Tools
+
+<!-- Check Your Understanding - Threat Actor Tools -->
+
+## Which penetration testing tool uses algorithm schemes to encode the data, which then prevents access to the data?
+
+- Encryption Tools
+
+## Which penetration testing tool is used by black hats to reverse engineer binary files when writing exploits? They are also used by white hats when analyzing malware.
+
+- Debuggers
+
+## Which penetration testing tool is used to probe and test a firewall’s robustness?
+
+- Packet Crafting Tools
+
+## Which penetration testing tool is used by white hat hackers to sniff out any trace of evidence existing in a computer?
+
+- Forensic Tools
+
+## Which penetration testing tool identifies whether a remote host is susceptible to a security attack?
+
+- Vulnerability Exploitation Tools
+
+<!-- 3.4: Malware -->
+
+<!-- Check Your Understanding - Malware -->
+
+## Which malware executes arbitrary code and installs copies of itself in the memory of the infected computer? The main purpose of this malware is to automatically replicate from system to system across the network.
+
+- Worm
+
+## Which malware is non-self-replicating type of malware? It often contains malicious code that is designed to look like something else, such as a legitimate application or file. It attacks the device from within.
+
+- Trojan Horse
+
+## Which malware is used to gather information about a user and then, without the user's consent, sends the information to another entity?
+
+- Spyware
+
+## Which malware typically displays annoying pop-ups to generate revenue for its author?
+
+- Adware
+
+## Which malware is installed on a compromised system and provides privileged access to the threat actor?
+
+- Rootkit
+
+## Which malware denies access to the infected computer system and demands payment before the restriction is removed?
+
+- Ransomware
+
+<!-- 3.5: Common Network Attacks -->
+
+<!-- Check Your Understanding - Common Network Attacks -->
+
+## What type of attack is tailgating?
+
+- Social Engineering
+
+## What type of attack is a password attack?
+
+- Access
+
+## What type of attack is port scanning?
+
+- Reconnaissance
+
+## What type of attack is man-in-the-middle?
+
+- Access
+
+## What type of attack is address spoofing?
+
+- Access
+
