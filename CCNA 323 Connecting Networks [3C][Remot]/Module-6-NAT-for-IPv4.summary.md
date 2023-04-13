@@ -54,4 +54,34 @@
 
 - `clear ip nat statistics`
 
-## 
+## To configure dynamic NAT, first define the pool of addresses that will be used for translation using
+
+- `ip nat pool`
+
+## to control which addresses will only be translated, bind an ACL to the NAT pool using
+
+- `nat inside source list *{access-list-number | access-list-name}* pool *pool-name*`
+
+## this command displays all static translations that have been configured and any dynamic translations that have been created by traffic
+
+- show ip nat translations
+
+## by default, translation entries time out after ____ hours
+
+- 24
+
+## to configure the amount of time before NAT translations are cleared, use
+
+- `ip nat translation timeout *timeout-seconds*`
+
+## To configure PAT to use a single IPv4 address, simply add the keyword ____ to the `ip nat inside source` command
+
+- `overload`
+
+## To configure PAT for a dynamic NAT address pool, simply add the keyword ____ to the `ip nat inside source` command
+
+- `overload`
+
+## IPv6 private address space is called
+
+- unique local addresses (ULAs)
