@@ -1,12 +1,42 @@
 <!-- Module 3: Network Security Concepts -->
 
+## ____ must be identified and protected
+
+- assets
+
+## ____ addressed before they become a threat and are exploited
+
+- vulnerabilities
+
+## ____ techniques are required before, during, and after an attack.
+
+- mitigation
+
+## is a path by which a threat actor can gain access to a server, host, or network.
+
+- attack vector
+
 ## includes hackers and any device, person, group, or nation state that is, intentionally or unintentionally, the source of an attack
 
 - threat actor
 
+## three main types of hackers
+
+- white hat
+- gray hat
+- black hat
+
 ## they operate in an underground economy where they buy, sell, and trade attack toolkits, zero day exploit code, botnet services, banking Trojans, keyloggers, and more
 
 - cyber criminals
+
+## tend to rely on fairly basic, freely available tools to do hacking
+
+- hactivists
+
+## create advanced, customized attack code, often using previously undiscovered software vulnerabilities called zero-day vulnerabilities
+
+- state-sponsored hackers
 
 ## this type of hacking involves many different types of tools used to test the network and keep its data secure
 
@@ -31,6 +61,21 @@
 ## this malware executes arbitrary code and installs copies of itself in the memory of the infected computer.
 
 - worm
+
+## executes a specific unwanted, and often harmful, function on a computer. 
+
+- virus
+
+## When an infected application or file is downloaded and opened, this malware can attack the end device from within.
+
+- trojan horse
+
+## other types of malware
+
+- adware
+- ransomware
+- rootkit
+- spyware
 
 ## Networks are susceptible to the following types of attacks
 
@@ -58,6 +103,14 @@
 ## is an access attack that attempts to manipulate individuals into performing actions or divulging confidential information
 
 - social engineering
+
+## IP attack techniques include: 
+
+- ICMP
+- amplification and reflection
+- address spoofing
+- MITM
+- session hijacking
 
 ## are attacks that create some sort of interruption of network services to users, devices, or applications.
 
