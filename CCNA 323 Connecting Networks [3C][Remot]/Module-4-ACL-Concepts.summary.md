@@ -13,7 +13,7 @@
 - standard ACLs
 - extended ACLs
 
-## This ALC filters packets before they are routed to the outbound interface
+## This ACL filters packets before they are routed to the outbound interface
 
 - inbound ACL
 
@@ -25,9 +25,17 @@
 
 - 32
 
+## is similar to a subnet mask in that it uses the ANDing process to identify which bits in an IPv4 address to match
+
+- wildcard mask
+
 ## Wildcard mask bit ____ matches the corresponding bit value in the address. Wildcard mask bit ____ ignores the corresponding bit value in the address.
 
 - 0, 1
+
+## a dual-stacked (i.e, IPv4 and IPv6) router interface can have up to ____ ACLs applied
+
+- 4
 
 ## These ACLs permit or deny packets based only on the source IPv4 address
 
