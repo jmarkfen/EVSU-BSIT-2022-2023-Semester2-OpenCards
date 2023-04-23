@@ -26,4 +26,19 @@
 
 - risk
 
-## 
+## is a path by which a threat actor can gain access to a server, host, or network. Attack vectors originate from inside or outside the corporate network.
+
+- attack vector
+
+## occurs when a network device or application is incapacitated and no longer capable of supporting requests from legitimate users
+
+- Denial-of-Service (DoS) attack
+
+## List down some common data loss vectors.
+
+- email/social networking
+- unencrypted devices
+- cloud storage devices
+- removable media
+- hard copy
+- improper access control
