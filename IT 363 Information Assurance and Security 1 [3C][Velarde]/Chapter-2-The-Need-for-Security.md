@@ -174,4 +174,28 @@
 
 - Distributed Denial-of-Service (DDoS)
 
+## Type of attack where an attacker routes large quantities of email to overwhelm the receiver
+
+- mail bombing
+
+## unsolicited emails, considered as a nuisance but may also be a vector for some attacks
+
+- spam
+
+## software used to monitor data traveling through a network
+
+- packet sniffer
+
+## A technique used to gain unauthorized access; the intruder assumes a trusted IP address
+
+- IP spoofing
+
+## Type of attack where DNS records are modified to redirect users to an illegitimate site for the purpose of obtaining private information
+
+- pharming
+
+## An attacker monitors the network, modifies them, then inserts them back before being sent to the recipient
+
+- man-in-the-middle
+
 ## 
