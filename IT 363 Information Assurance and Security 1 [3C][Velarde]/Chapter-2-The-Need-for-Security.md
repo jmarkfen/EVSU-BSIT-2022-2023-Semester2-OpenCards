@@ -116,6 +116,12 @@
 
 - rainbow table
 
+## Information Threats can be prevented through:
+
+- training
+- awareness
+- controls
+
 ## The of social manipulation tactics to convince people to reveal access credentials or other valuable information to an attacker
 
 - social engineering
@@ -204,7 +210,7 @@
 
 - technical hardware failure/error
 
-## Common security failures in sofware development
+## Common failures in sofware development
 
 - buffer overruns
 - command injection
