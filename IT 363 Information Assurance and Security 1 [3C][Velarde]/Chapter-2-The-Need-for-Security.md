@@ -198,4 +198,79 @@
 
 - man-in-the-middle
 
-## 
+<!-- Lesson 4 - Technical Hardware -->
+
+## Occurs when a manufacturer distributes equipment containing a known or unknown flaw
+
+- technical hardware failure/error
+
+## Common security failures in sofware development
+
+- buffer overruns
+- command injection
+- cross-site scripting (XSS)
+- failure to handle errors
+- failure to protect network traffic
+- failure to store cryptographically strong random numbers
+- format string problems
+- neglecting change protocol
+- improper file access
+- improper use of SSL
+- information leakage
+- integer bugs (overflows/underflows)
+- race conditions
+- SQL injection
+
+## Problem areas in software development
+
+- trusting network address resolution
+- unauthenticated key exchange
+- use of magic URLs and hidden forms
+- use of weak password-based systems
+- poor usability
+
+## Occurs when a product or service is no longer needed, wanted, or serviced even though it is still functional.
+
+- technological obsolescence
+
+## Illegal taking of another's physical, electronic, or intellectual property
+
+- theft
+
+## An objective in SDLC recognizing the need for creating a secure system.
+
+- software assurance
+
+## Common security principles in software design
+
+- keep design simple and small
+- access decisions by permission, not inclusion
+- every access to every object checked for authority
+- design depends on possession of keys/passwords
+- protection mechanisms require two keys to unlock
+- programs/users/utilize only necessary priviledges
+- minimize mechanisms common to multiple users
+- human interface must be easy to use so users routinely/automatically use protection mechanisms
+
+## What are the four important functions of information security?
+
+- protects organization's ability to function
+- enables safe operation of applications implemented on organization's IT system
+- protects data the organization collects and uses
+- safeguars the technology assets in use at the organization
+
+## An object, person, or other entity representing a constant danger to an asset
+
+- threat
+
+##  A deliberate act that exploits vulnerability
+
+- attack
+
+# Management can effectively protect information through:
+
+- policy
+- education
+- training
+- technology controls
+
