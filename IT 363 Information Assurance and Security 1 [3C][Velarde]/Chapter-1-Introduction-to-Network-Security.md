@@ -1,6 +1,6 @@
 <!-- Chapter 1: Introduction to Network Security -->
 
-<!-- Lesson 1: Introduction -->
+<!-- Lesson 1 - Introduction -->
 
 ## Computer security began on ____
 
@@ -49,7 +49,16 @@
 
 - security
 
-## The protection of informatio and its critical elements, including systems and hardware that use, store, and transmit that information.
+## A sucessful organization should have multiple layers of security to protect:
+
+- operations
+- physical infrastructure
+- people
+- functions
+- communications
+- information
+
+## The protection of information and its critical elements, including systems and hardware that use, store, and transmit that information.
 
 - security
 
@@ -123,35 +132,202 @@
 
 - vulnerability
 
-## Security should be viewed as a balance between ____.
-
-- protection and accessibility
-
-## A critical characteristic of an information that enable authorized users to access information without interference and to receive it in the required format.
-
-- Availability
 
 ## A standard designed to guide policies for information security within an organization.
 
 - Confidentiality, Integrity and Availability (CIA)
 
-##  A critical characteristic of an information that is protected from disclosure to unauthorized systems.
+<!-- Lesson 2 - Critical Characteristics of Information -->
+
+## A critical characteristic of an information that enable authorized users to access information without interference and to receive it in the required format.
+
+- Availability
+
+## A quality of information being free from mistakes or errors and has value the end user expects.
+
+- Accuracy
+
+## A quality or state of information being genuine or original,rather than a reproduction or fabrication.
+
+- Authenticity
+
+## Information is ____ when it is in the same state in which it was created, transferred. and stored.
+
+- Authentic
+
+##  A critical characteristic of an information that is protected from disclosure to unauthorized individuals or systems.
 
 - Confidentiality
 
-<!-- Lesson -->
+## This characteristic ensures that only users with the rights and privileges can access information
 
-## Responsible for the security and use of a particular set of information
+- Confidentiality
 
-- Data owners
+## Characteristic of information being whole, complete, and uncorrupted.
 
-<!-- Lesson -->
+- Integrity
+
+## Quality or state of information having value to some purpose or end.
+
+- Utility
+
+## Quality or state of ownership or control of information.
+
+- Possession
+
+## Components of an information system:
+
+- software
+- hardware
+- data
+- people
+- procedures
+- networks
+
+## Security should be viewed as a balance between ____.
+
+- protection and accessibility
+
+## Approaches to information security implementation:
+
+- Grassroots effort
+- Top-down approach
+
+## This approach in information security implementation involves systems administrators attempting to improve security on their own.
+
+- Grassroots effort
+
+## This approach in information security implementation is initiated by upper management
+
+- Top-down approach
+
+
+<!-- Lesson 3 - Phases of SDLC -->
+
+## A methodology for the design and implementation of an information system
+
+- Systems Development Life Cycle (SDLC)
+
+## A format approach to solving a problem based on a structured sequence of procedures
+
+- methodology
+
+## Advantages of using a methodology:
+
+- ensures a rigorous process with a clearly defined goal
+- increases probability of success
+
+## Six phases of traditional SDLC:
+
+- investigation
+- analysis
+- logical design
+- physical design
+- implementation
+- maintenance and change
+
+## SDLC phase where objectives, scope, and cost-benefit analysis is conducted
+
+- Investigation
+
+## SDLC phase where the organization, current systems, proposed system is assessed
+
+- Analysis
+
+## SDLC phase where data support and structures are defined
+
+- Logical Design
+
+## SDLC phase where technologies and components are identified and evaluated
+
+- Physical Design
+
+## SDLC phase where the needed software is created
+
+- Implementation
+
+## SDLC phase that is the longest and most expensive. Consists of tasks necessary to support the system.
+
+- Maintenance and change
+
+## Uses the same phases in traditional SDLC but adapted for security systems
+
+- SecSDLC
+
+## This phase begins with an enterprise information security policy (EISP)
+
+- Investigation
+
+## This document outlines the implementation of a security program within the organization
+
+- enterprise information security policy (EISP)
+
+## This phase includes analysis of relevant legal issues, risk management, and existing security policies
+
+- Analysis
+
+## This phase involves the creation of blueprints for information security
+
+- Logical Design
+
+## This phase includes evaluation of information security technologies needed to support the blueprint
+
+- Physical Design
+
+## This phases is where security solutions are acquired, tested, and implemented
+
+- Implementation
+
+## This phase includes repairing damage and restoring information from attacks
+
+- Maintenance and change
+
+<!-- Lesson 4 - Software Design Principles -->
+
+## Security principles identified by J.H. Saltzer and M.D. Shroeder
+
+- economy of mechanism
+- fail-safe defaultss
+- complete mediation
+- open design
+- separation of privilege
+- least privilege
+- least common mechanism
+- psychological acceptability
+
+## Phases of the NIST approach
+
+- Initiation
+- Development/Acquisition
+- Implementation/Assessment
+- Operations and Maintenance
+- Disposal
 
 ## In a NIST approach for securing SDLC; What's the key security involved?
 
 - Integrating IS into its environment
 - Planning and conducting system certification activities in synchronization with testing of security controls
 - Completing system accreditation activities
+
+## A small functional team of people who are experienced in one or more facts of technical and non-technical areas
+
+- Information Security Project Team
+
+## Responsible for the security and use of a particular set of information
+
+- Data owners
+
+## Responsible for information and systems that process, transmit, and store data
+
+- Data custodian
+
+## Individuals with information security roles
+
+- Data users
+
+## Examines the behavior of individuals interacting with systems
+
+- Social science
 
 ## The need to include writing security requirements alongside functional requirements and performing an architecture risk analysis during the design phase of the SDLC.
 
@@ -160,7 +336,3 @@
 ## An SDLC phase that ends with a documentation of findings and update of feasibility.
 
 - Analysis
-
-## An SDLC phase where needed software is created.
-
-- Implementation
