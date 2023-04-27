@@ -273,7 +273,7 @@
 
 - attack
 
-# Management can effectively protect information through:
+## Management can effectively protect information through:
 
 - policy
 - education
