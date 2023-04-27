@@ -112,7 +112,7 @@
 
 - risk
 
-## The entity being targeted or attacked.
+## The entity being used to target or attack.
 
 - subject of attack
 
