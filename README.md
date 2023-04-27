@@ -20,3 +20,11 @@ Used with https://github.com/holgerbrandl/opencards
 ### IT 383A Systems Integration and Architecture 2 [3C][Obina]
 
 - essays tend to include enumeration.
+
+
+### IT 363 Information Assurance and Security 1 [3C][Velarde]
+
+- exams may contain True or False.
+- identification
+- enumeration
+- may accept synonyms or similar words
