@@ -85,3 +85,24 @@
 ## IPv6 private address space is called
 
 - unique local addresses (ULAs)
+
+<!-- extra -->
+
+## Advantages of NAT
+
+- conserves legally registered addresses by allowing the privatization of intranets
+- increases the flexibility of connections to the public network
+- provides consistency for internal network addressing schemes
+- hides the IPv4 addresses of users and other devices
+
+## Disadvantages of NAT
+
+- network performance, especially for real time protocols such as VoIP
+- forwarding delays caused by the NAT process becomes more of an issue as the pools of public IPv4 addresses for ISPs become depleted
+- end-to-end addressing is lost
+- End-to-end IPv4 traceability is lost
+- complicates the use of tunneling protocols, such as IPsec
+- Services that require the initiation of TCP connections from the outside network, or stateless protocols can be disrupted
+
+## process of two layers of NAT translations
+- Carrier Grade NAT (CGN)
