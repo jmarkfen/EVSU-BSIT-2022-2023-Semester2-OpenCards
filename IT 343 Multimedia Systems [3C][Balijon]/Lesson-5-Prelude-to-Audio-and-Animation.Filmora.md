@@ -64,3 +64,31 @@ timeline
 ## consists of the primary editing tools and effect directories. Your locally saved media systems are also imported to the editor timeline through this panel.
 
 elements panel
+
+## allow you to change settings for the project such as aspect ratio and resolution 
+
+project settings
+
+## removes the clip and moves the succeeding clips to fill in the gap
+
+ripple delete
+
+## add media at the playhead and replace media under it
+
+overwrite
+
+## add media at the playhead and move succeeding media to the right side
+
+insert
+
+## add media to the end of track
+
+append
+
+## remove start of end of a clip
+
+trim
+
+## cuts a clip into two
+
+split
