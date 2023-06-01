@@ -157,6 +157,3 @@ reverb
 ## this effect lets you change audio amplitude
 
 normalize [according to sir deofel]
-
-## 
-
